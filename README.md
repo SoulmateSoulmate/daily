@@ -99,3 +99,4 @@ This is line 98 with random word: beam
 This is line 99 with random word: sky
 This is line 100 with random word: blaze
 Line 1: blaze
+Line 2: frost
