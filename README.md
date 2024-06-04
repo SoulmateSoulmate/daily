@@ -101,3 +101,4 @@ This is line 100 with random word: blaze
 Line 1: blaze
 Line 2: frost
 Line 3: ember
+Line 4: storm
