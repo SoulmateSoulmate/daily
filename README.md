@@ -108,3 +108,4 @@ Line 7: wave
 Line 8: dusk
 Line 9: glint
 Line 10: mist
+Line 11: spark
