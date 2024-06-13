@@ -110,3 +110,4 @@ Line 9: glint
 Line 10: mist
 Line 11: spark
 Line 12: light
+Line 13: nova
