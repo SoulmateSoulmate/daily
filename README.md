@@ -114,3 +114,4 @@ Line 13: nova
 Line 14: prism
 Line 15: pulse
 Line 16: core
+Line 17: flare
