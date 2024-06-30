@@ -127,3 +127,4 @@ Line 26: zenith
 Line 27: motion
 Line 28: hollow
 Line 29: crystal
+Line 30: portal
