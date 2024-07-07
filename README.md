@@ -134,3 +134,4 @@ Line 33: quantum
 Line 34: ether
 Line 35: ripple
 Line 36: shadow
+Line 37: static
