@@ -141,3 +141,4 @@ Line 40: shimmer
 Line 41: phantom
 Line 42: veil
 Line 43: rift
+Line 44: surge
