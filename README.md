@@ -143,3 +143,4 @@ Line 42: veil
 Line 43: rift
 Line 44: surge
 Line 45: flicker
+Line 46: aura
