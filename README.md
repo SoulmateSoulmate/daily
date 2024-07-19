@@ -146,3 +146,4 @@ Line 45: flicker
 Line 46: aura
 Line 47: flash
 Line 48: signal
+Line 49: blaze
