@@ -149,3 +149,4 @@ Line 48: signal
 Line 49: blaze
 Line 50: hollow
 Line 51: glimmer
+Line 52: illusion
