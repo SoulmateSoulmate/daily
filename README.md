@@ -151,3 +151,4 @@ Line 50: hollow
 Line 51: glimmer
 Line 52: illusion
 Line 53: shadow
+Line 54: vortex
