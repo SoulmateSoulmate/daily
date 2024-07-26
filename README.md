@@ -153,3 +153,4 @@ Line 52: illusion
 Line 53: shadow
 Line 54: vortex
 Line 55: echo
+Line 56: beam
