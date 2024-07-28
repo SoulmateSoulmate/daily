@@ -155,3 +155,4 @@ Line 54: vortex
 Line 55: echo
 Line 56: beam
 Line 57: flare
+Line 58: shimmer
