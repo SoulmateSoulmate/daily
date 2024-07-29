@@ -156,3 +156,4 @@ Line 55: echo
 Line 56: beam
 Line 57: flare
 Line 58: shimmer
+Line 59: ripple
