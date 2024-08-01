@@ -159,3 +159,4 @@ Line 58: shimmer
 Line 59: ripple
 Line 60: nova
 Line 61: whisper
+Line 62: pulse
