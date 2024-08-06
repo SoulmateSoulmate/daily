@@ -164,3 +164,4 @@ Line 63: veil
 Line 64: stream
 Line 65: ignite
 Line 66: frost
+Line 67: quake
