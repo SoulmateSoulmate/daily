@@ -166,3 +166,4 @@ Line 65: ignite
 Line 66: frost
 Line 67: quake
 Line 68: mirror
+Line 69: static
