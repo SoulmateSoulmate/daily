@@ -167,3 +167,4 @@ Line 66: frost
 Line 67: quake
 Line 68: mirror
 Line 69: static
+Line 70: blaze
