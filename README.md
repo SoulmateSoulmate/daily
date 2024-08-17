@@ -175,3 +175,4 @@ Line 74: dusk
 Line 75: light
 Line 76: core
 Line 77: vision
+Line 78: dream
