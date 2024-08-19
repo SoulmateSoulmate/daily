@@ -177,3 +177,4 @@ Line 76: core
 Line 77: vision
 Line 78: dream
 Line 79: link
+Line 80: focus
