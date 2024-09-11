@@ -200,3 +200,4 @@ Line 99: mode
 Line 100: pixel
 Line 101: root
 Line 102: matrix
+Line 103: synth
