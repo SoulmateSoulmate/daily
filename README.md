@@ -203,3 +203,4 @@ Line 102: matrix
 Line 103: synth
 Line 104: motion
 Line 105: drift
+Line 106: ghost
