@@ -210,3 +210,4 @@ Line 109: flare
 Line 110: signal
 Line 111: synth
 Line 112: portal
+Line 113: glitch
