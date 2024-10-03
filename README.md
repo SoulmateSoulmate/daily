@@ -222,3 +222,4 @@ Line 121: radar
 Line 122: ripple
 Line 123: loop
 Line 124: arc
+Line 125: prism
