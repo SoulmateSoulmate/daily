@@ -238,3 +238,4 @@ Line 137: shadow
 Line 138: echo
 Line 139: frost
 Line 140: rise
+Line 141: dawn
