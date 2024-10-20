@@ -239,3 +239,4 @@ Line 138: echo
 Line 139: frost
 Line 140: rise
 Line 141: dawn
+Line 142: pulse
