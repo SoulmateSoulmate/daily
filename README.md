@@ -97,3 +97,4 @@ This is line 96 with random word: photon
 This is line 97 with random word: wave
 This is line 98 with random word: beam
 This is line 99 with random word: sky
+This is line 100 with random word: blaze
